@@ -8,5 +8,6 @@ public class MainTest2 {
         System.out.println("");
         System.out.println("接着来");
         System.out.println("shiyishi");
+        System.out.println("看一看有用没");
     }
 }
