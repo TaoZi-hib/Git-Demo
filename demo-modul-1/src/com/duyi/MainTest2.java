@@ -8,5 +8,6 @@ public class MainTest2 {
         System.out.println("");
         System.out.println("接着来");
         System.out.println("真一群傻吊");
+        System.out.println("这");
     }
 }
