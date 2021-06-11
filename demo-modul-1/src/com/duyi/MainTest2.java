@@ -6,6 +6,6 @@ public class MainTest2 {
         System.out.println();
         System.out.println("求求你了成功吧");
         System.out.println("");
-        System.out.println();
+        System.out.println("接着来");
     }
 }
